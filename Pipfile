@@ -5,8 +5,9 @@ name = "pypi"
 
 [packages]
 django = "==3.0.1"
+gunicorn = "==19.9.0"
 
 [dev-packages]
 
 [requires]
-python_version = "3.8"
+python_version = "3.7"
